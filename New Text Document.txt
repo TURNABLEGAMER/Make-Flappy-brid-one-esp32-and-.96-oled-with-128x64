@@ -301,6 +301,3 @@ void boldTextAtCenter(int y, String txt) {
   textAt(x + 1, y, txt);
 
 }
-ardu bird.txt
-Zoomed out of item.https://htmlgw3.apponfly.com/rdp/#/client/QXBwT25GbHkAYwBSZXN0QXV0aFByb3ZpZGVy
-https://www.youtube.com/shorts/dFwMTZt7iIA
